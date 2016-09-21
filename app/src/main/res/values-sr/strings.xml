@@ -3,4 +3,6 @@
     <string name="app_name">Lab1</string>
     <string name="hello_message">Здраво Свете!</string>
     <string name="ButtonText">Ја сам дугме</string>
+    <string name="Login">Пријава</string>
+    <string name="Login">Лозинка</string>
 </resources>
